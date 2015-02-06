@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test1",
   "description": "Illustrates problem in generation of Swagger docs when using two controllers.",
   "author": "Emmanuel Lazaridis",
   "version": "0.0.1",
